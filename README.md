@@ -112,7 +112,8 @@ Proyecto desarrollado como parte de un trabajo académico sobre Lenguajes de Pro
 **EJECUCION DEL PROYECTO**
 ![WhatsApp Image 2026-02-04 at 09 54 56](https://github.com/user-attachments/assets/085a507b-e8d7-4421-8052-3db2ded085d3)
 ![WhatsApp Image 2026-02-04 at 10 25 46](https://github.com/user-attachments/assets/66b332c1-2638-4314-af33-05b9dfa207a6)
-![WhatsApp Image 2026-02-04 at 10 25 46](https://github.com/user-attachments/assets/6cd69962-3aad-4469-b3ad-5e5d16f20c6f)
+![WhatsApp Image 2026-02-04 at 09 54 56 (1)](https://github.com/user-attachments/assets/3e16e5ee-fdcf-4cde-af8b-c0fdf2317743)
+
 
 
 
