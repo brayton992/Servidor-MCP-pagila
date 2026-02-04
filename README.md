@@ -74,8 +74,8 @@ Esto permite realizar:
 - Generación de reportes y análisis gráficos
 
 
-
 Cómo ejecutar el proyecto
+
 1️⃣ Instalar dependencias
 pip install -r requirements.txt
 
