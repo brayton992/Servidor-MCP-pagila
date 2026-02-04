@@ -86,9 +86,11 @@ python main.py
 Configurar el servidor MCP local apuntando al archivo main.py.
 
 📎 Repositorio
+
 Este repositorio contiene todo el código fuente, configuración y documentación necesarios para reproducir el proyecto.
 
 👨‍🎓 Autor
+
 Proyecto desarrollado como parte de un trabajo académico sobre Lenguajes de Programación / MCP / Bases de Datos, integrando modelos de lenguaje con sistemas de información reales.
 
 Entregable 3 – Preparación de la base de datos
