@@ -85,31 +85,31 @@ python main.py
 3️⃣ Conectar desde Claude Desktop
 Configurar el servidor MCP local apuntando al archivo main.py.
 
-📎 Repositorio
+**📎 Repositorio**
 
 Este repositorio contiene todo el código fuente, configuración y documentación necesarios para reproducir el proyecto.
 
-👨‍🎓 Autor
+**👨‍🎓 Autor**
 
 Proyecto desarrollado como parte de un trabajo académico sobre Lenguajes de Programación / MCP / Bases de Datos, integrando modelos de lenguaje con sistemas de información reales.
 
-Entregable 3 – Preparación de la base de datos
+**Entregable 3 – Preparación de la base de datos**
 ![WhatsApp Image 2026-02-03 at 18 14 43](https://github.com/user-attachments/assets/4406c75c-9786-4c68-ba74-46df59d619cb)
 
-Entregable 4 – Implementación del servid
+**Entregable 4 – Implementación del servidor**
 <img width="1600" height="730" alt="image" src="https://github.com/user-attachments/assets/9be8f9e7-d512-4a3b-9fe6-e3b3716e90d7" />
 
-Entregable 5 – Seguridad y control
+**Entregable 5 – Seguridad y control**
 <img width="1600" height="737" alt="image" src="https://github.com/user-attachments/assets/b14dbd6b-1692-4932-9c96-4d2ec1e90b3e" />
 <img width="1600" height="717" alt="image" src="https://github.com/user-attachments/assets/9888b678-ef7f-472f-9635-ad0c1e4b6440" />
 <img width="1600" height="737" alt="image" src="https://github.com/user-attachments/assets/860c21c7-1600-4c3b-8578-492dc1b1b2e8" />
 <img width="1600" height="728" alt="image" src="https://github.com/user-attachments/assets/6dd88f53-05ba-4b39-9b77-ae7066d55e8b" />
 <img width="715" height="335" alt="image" src="https://github.com/user-attachments/assets/e0864b8c-867c-4e20-9a9b-447d6e12d73c" />
 
-Entregable 6 – Consultas en lenguaje natural
+**Entregable 6 – Consultas en lenguaje natural**
 <img width="1600" height="827" alt="image" src="https://github.com/user-attachments/assets/7e9eb360-9a03-4856-8de4-554d1fed6e79" />
 
-EJECUCION DEL PROYECTO
+**EJECUCION DEL PROYECTO**
 ![WhatsApp Image 2026-02-04 at 09 54 56](https://github.com/user-attachments/assets/085a507b-e8d7-4421-8052-3db2ded085d3)
 ![WhatsApp Image 2026-02-04 at 10 25 46](https://github.com/user-attachments/assets/66b332c1-2638-4314-af33-05b9dfa207a6)
 ![WhatsApp Image 2026-02-04 at 10 25 46](https://github.com/user-attachments/assets/6cd69962-3aad-4469-b3ad-5e5d16f20c6f)
